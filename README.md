@@ -12,4 +12,4 @@ Student Info
 
 * Name: Nguyễn Thị Thảo
 * ID: BI12-423
-* Group ID: haha nope
+* Group ID: 07
